@@ -1,0 +1,23 @@
+*{
+    margin: 2.0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    justify-content: center;
+    transition: background 1.7s;
+}
+h1{
+    font-size: 400%;
+    font-weight: 400;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    transition: all 1.7s;
+    
+}
